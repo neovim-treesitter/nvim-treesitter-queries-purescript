@@ -1,6 +1,6 @@
 {
-  "lang": "purescript",
   "url": "https://github.com/postsolar/tree-sitter-purescript",
   "semver": false,
-  "parser_version": "f541f95ffd6852fbbe88636317c613285bc105af"
+  "parser_version": "f541f95ffd6852fbbe88636317c613285bc105af",
+  "lang": "purescript"
 }
